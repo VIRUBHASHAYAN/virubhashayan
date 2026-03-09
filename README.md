@@ -11,6 +11,6 @@ Still learning. Always building.
 
 Open to opportunities where execution matters more than buzzwords.
 
-Currently exploring:
+### Currently exploring:
 
-• RAG Systems • LLM Applications • Data Pipelines • ML Deployment
+#### • RAG Systems • LLM Applications • Data Pipelines • ML Deployment
