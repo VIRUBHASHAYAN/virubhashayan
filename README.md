@@ -1,12 +1,16 @@
-## Hi there 👋
-B.Tech IT student graduating May 2026. Yes, technically a fresher.
+## Welcome👋 — you’re in the right place
+B.Tech IT Student | Graduating May 2026
 
-But I prefer building Al systems over just talking about them.
+Yes, technically a fresher — but I prefer building AI systems over just talking about them.
 
-I work on Data Science, predictive modeling, and Retrieval-Augmented Generation (RAG) architectures - focusing on end-to-end pipelines that actually function beyond a Jupyter notebook. From data analysis to LLM-powered applications, I care about systems that scale, respond, and solve.
+I work on Data Science, Predictive Modeling, and Retrieval-Augmented Generation (RAG), focusing on end-to-end pipelines that work beyond a Jupyter notebook.
+
+From data analysis to LLM-powered applications, I care about building systems that scale, respond, and actually solve problems.
 
 Still learning. Always building.
 
-Open to opportunities where execution matters more
+Open to opportunities where execution matters more than buzzwords.
 
-than buzzwords.
+Currently exploring:
+
+• RAG Systems • LLM Applications • Data Pipelines • ML Deployment
