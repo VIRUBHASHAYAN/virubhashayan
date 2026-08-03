@@ -1,11 +1,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Virubhashayan&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <p align="center">
-AI Engineer • Deep Learning • Computer Vision • Generative AI
+  <img src="https://img.shields.io/badge/AI_Engineer-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Doubt%20is%20only%20removed%20by%20action%20.%20.%20." alt="Typing introduction" />
 </p>
@@ -16,13 +17,11 @@ AI Engineer • Deep Learning • Computer Vision • Generative AI
   </a>
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMyc2pmZWVtcXBvNDExaG5qYmhtYWp5dHJiaWxrM3lhM2N6NzFyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UMXpgbLC6Cd2Lh4nNb/giphy.gif" alt="Banner" width="5%" />
-
-## 📌 About Me
+##  About Me
 - AI & Machine Learning Engineer passionate about building practical AI applications from data to deployment.My work focuses on Deep Learning, Computer Vision, Data Science, and Retrieval-Augmented Generation (RAG), with an emphasis on building complete, production-oriented pipelines rather than standalone models.
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 - Deep Learning & Computer Vision
 - Retrieval-Augmented Generation (RAG)
 - LLM Applications
@@ -30,7 +29,7 @@ AI Engineer • Deep Learning • Computer Vision • Generative AI
 - AI-powered Web Applications
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/VIRUBHASHAYAN">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VIRUBHASHAYAN&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="VIRUBHASHAYAN's GitHub Stats" />
@@ -39,7 +38,7 @@ AI Engineer • Deep Learning • Computer Vision • Generative AI
 </p>
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,mysql,git,github,docker,vscode,html,css,javascript&perline=11" />
@@ -54,6 +53,14 @@ AI Engineer • Deep Learning • Computer Vision • Generative AI
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
+##  Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VIRUBHASHAYAN&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true"
+    width="55%"
+  />
+</p>
 
 ## 🔗 Connect with Me
 <p align="center">
