@@ -42,27 +42,6 @@ AI & Machine Learning Engineer passionate about building practical AI applicatio
 </p>
 
 
-## 📊 GitHub Analytics
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIRUBHASHAYAN&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true" width="120%" />
-
-</td>
-
-<td width="40%" valign="top">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VIRUBHASHAYAN&theme=tokyonight&hide_border=true&show_icons=true" width="100%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=VIRUBHASHAYAN&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
 
 
 
