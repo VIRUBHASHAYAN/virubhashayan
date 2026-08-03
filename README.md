@@ -18,25 +18,13 @@
 </p>
 
 ##  About Me
-- AI & Machine Learning Engineer passionate about building practical AI applications from data to deployment.My work focuses on Deep Learning, Computer Vision, Data Science, and Retrieval-Augmented Generation (RAG), with an emphasis on building complete, production-oriented pipelines rather than standalone models.
-
-
-##  My Focus Areas
+AI & Machine Learning Engineer passionate about building practical AI applications from data to deployment.My work focuses on Deep Learning, Computer Vision, Data Science, and Retrieval-Augmented Generation (RAG), with an emphasis on building complete, production-oriented pipelines rather than standalone models.
+  
 - Deep Learning & Computer Vision
 - Retrieval-Augmented Generation (RAG)
 - LLM Applications
 - Machine Learning Deployment
 - AI-powered Web Applications
-
-
-##  GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/VIRUBHASHAYAN">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VIRUBHASHAYAN&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="VIRUBHASHAYAN's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=VIRUBHASHAYAN&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="VIRUBHASHAYAN's GitHub Streak" width="49%" />
-</p>
-
 
 ##  Tech Stack
 
@@ -53,14 +41,30 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-##  Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VIRUBHASHAYAN&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true"
-    width="55%"
-  />
-</p>
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIRUBHASHAYAN&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true" width="120%" />
+
+</td>
+
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VIRUBHASHAYAN&theme=tokyonight&hide_border=true&show_icons=true" width="100%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=VIRUBHASHAYAN&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
+
+
 
 ## 🔗 Connect with Me
 <p align="center">
