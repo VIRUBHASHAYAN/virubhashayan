@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Doubt%20is%20only%20removed%20by%20action%20.%20.%20." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=9C8399&center=true&vCenter=true&width=650&lines=Doubt%20is%20only%20removed%20by%20action%20.%20.%20." alt="Typing introduction" />
 </p>
 
 <p align="center">
